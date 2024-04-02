@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ATAOMK](https://github.com/ATAOMK)
 
-- 📫 How to reach me **ataomk54@gmail.com**
+- 📫 How to reach me **from my github account**
 
 - 📄 Know about my experiences [https://github.com/ATAOMK](https://github.com/ATAOMK)
 
