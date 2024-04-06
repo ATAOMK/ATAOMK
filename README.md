@@ -1,6 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlbKvUhXgFcWQTFLA8rM3UfsqMmKxgpshtMQ&s)
 <h1 align="center">Hi, I'm Ataberk Ömer</h1>
-<h3 align="center">'m 10. I live in Sakarya, Turkey and work in the field of software and robotic coding.</h3>
+<h3 align="center">I'm 10. I live in Sakarya, Turkey and work in the field of software and robotic coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataomk&label=Profile%20views&color=0e75b6&style=flat" alt="ataomk" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ATAOMK](https://github.com/ATAOMK)
 
-- 📫 How to reach me **ataomk54@gmail.com**
+- 📫 How to reach me **GİTHUB**
 
 - 📄 Know about my experiences [https://github.com/ATAOMK](https://github.com/ATAOMK)
 
