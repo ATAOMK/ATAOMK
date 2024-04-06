@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Bot Arm](https://maker.robotistan.com/arduino-robot-kol/)
 
-- 🌱 I’m currently learning **HTML CSS**
+- 🌱 I’m currently learning **HTML CSS JAVASCRİPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ATAOMK](https://github.com/ATAOMK)
 
