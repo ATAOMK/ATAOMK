@@ -1,4 +1,4 @@
-[![MasterHead]("[http://giphy.com/embed/bGgsc5mWoryfgKBx1u](https://camo.githubusercontent.com/050db8ffd3e9a640bfd62bb75d6fea32b816ad060f8600812387fb70fc0609d9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e67696629)")
+[![MasterHead](https://camo.githubusercontent.com/050db8ffd3e9a640bfd62bb75d6fea32b816ad060f8600812387fb70fc0609d9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e67696629)
 <h1 align="center">Hi, I'm Ataberk Ömer</h1>
 <h3 align="center">I'm 10. I live in Sakarya, Turkey and work in the field of software and robotic coding.</h3>
 
