@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlbKvUhXgFcWQTFLA8rM3UfsqMmKxgpshtMQ&s)
+[![MasterHead](<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>)
 <h1 align="center">Hi, I'm Ataberk Ömer</h1>
 <h3 align="center">I'm 10. I live in Sakarya, Turkey and work in the field of software and robotic coding.</h3>
 
