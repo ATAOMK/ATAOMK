@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/bGgsc5mWoryfgKBx1u)
+
 <h1 align="center">Hi, I'm Ataberk Ömer</h1>
 <h3 align="center">I'm 10. I live in Sakarya, Turkey and work in the field of software and robotic coding.</h3>
 
