@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Ataberk Ömer</h1>
-<h3 align="center">I'm 10. I live in Sakarya, Turkey and work in the field of software and robotic coding.</h3>
+<h3 align="center">I'm 10. I live in Turkey and work in the field of software and robotic coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataomk&label=Profile%20views&color=0e75b6&style=flat" alt="ataomk" /> </p>
 
