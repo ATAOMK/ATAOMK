@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ataomk" alt="ataomk" /></a> </p>
 
-- 🔭 I’m currently working on [Bot Arm](https://maker.robotistan.com/arduino-robot-kol/)
+- 🔭 I’m currently working on [scss project]
 
-- 🌱 I’m currently learning **HTML CSS JAVASCRİPT**
+- 🌱 I’m currently learning **HTML SCSS JAVASCRİPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ATAOMK](https://github.com/ATAOMK)
 
